@@ -24,7 +24,7 @@ Ensure you have Python 3.8+ installed. It is recommended to use a virtual enviro
 
 ```bash
 # Clone the repository
-git clone [(https://github.com/RINKUSADH/Multi-sequence_MRI.git)]
+git clone [https://github.com/Ano-cypto/Multisequence-MRI.git]
 cd Multi-sequence_MRI
 
 # Install required dependencies
